@@ -5888,6 +5888,9 @@ body.keyboard-focused .dropdown-content li:focus {
 .collapsible-body-father {
   padding: 0 !important;
 }
+.collapsible-body-children {
+  text-align: center !important;
+}
 
 .sidenav .collapsible,
 .sidenav.fixed .collapsible {
